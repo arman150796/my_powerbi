@@ -1,2 +1,27 @@
-# my_powerbi
-This is my first repository
+# Prisma Insurance Power BI Dashboard
+
+## 📊 Project Overview
+
+This is an interactive Power BI dashboard designed for **Prisma Insurance**, providing insights into key metrics such as revenue, policy trends, and customer segmentation.
+
+## 🧰 Tools Used
+
+- Microsoft Power BI
+- Excel (for data preprocessing)
+- DAX (Data Analysis Expressions)
+
+## 📌 Key Features
+
+- Total policies issued & claim ratio
+- Year-wise premium collection analysis
+- Customer segmentation by age, region, and policy type
+- Dynamic filters for Region, Policy Type, and Time Period
+
+## 📁 Files Included
+
+- `Prisma insurance.pbix` – the complete Power BI dashboard file
+
+## 👤 Author
+
+- Md Arman  
+- [GitHub Profile](https://github.com/arman150796)
