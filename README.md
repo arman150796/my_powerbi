@@ -4,6 +4,10 @@
 
 This is an interactive Power BI dashboard designed for **Prisma Insurance**, providing insights into key metrics such as revenue, policy trends, and customer segmentation.
 
+## 📸 Dashboard Preview
+![Dashboard Overview](https://github.com/arman150796/repo-name/raw/main/Prism%20Insurance.PNG)
+![Detailed View](https://github.com/arman150796/repo-name/raw/main/Prism%20Insurance2.PNG)
+
 ## 🧰 Tools Used
 
 - Microsoft Power BI
